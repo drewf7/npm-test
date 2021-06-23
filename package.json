@@ -1,0 +1,19 @@
+{
+  "name": "@drewf/npm-test-proj",
+  "version": "1.0.0",
+  "description": "Test project to check out npm publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewf7/npm-test.git"
+  },
+  "author": "Drew Fabian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewf7/npm-test/issues"
+  },
+  "homepage": "https://github.com/drewf7/npm-test#readme"
+}
